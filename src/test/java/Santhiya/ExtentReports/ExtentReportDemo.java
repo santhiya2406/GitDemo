@@ -39,6 +39,8 @@ public class ExtentReportDemo {
 		driver.close();
 		test.fail("Results not matching");
 		System.out.println("Santhiya");
+		System.out.println("Santhiya");
+		System.out.println("Santhiya");
 		extent.flush();
 	}
 }
